@@ -1,0 +1,35 @@
+
+.logo {
+    font-size: 24px;
+    margin: 0 5px -35px -35px;
+}
+.form-group{
+    width: 1200px;
+    height: auto;
+    border: 2px solid #ddd;
+    margin: 30px auto;
+}
+.email .gmail{
+    width: 100%;
+    margin: 30px 0;
+}
+
+.email{
+    position: relative;
+}
+.com {
+    position: absolute;
+    top: 0;
+    left: 425px;
+}
+.col-md-1 i {
+    margin-left: -95px;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: -315px;
+    padding: 8px 22px;
+    font-size: 20px;
+    border-radius: 10px;
+}
